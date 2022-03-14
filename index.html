@@ -6,6 +6,49 @@
 -->
 <html>
 	<head>
+<style type="text/css">
+
+hr {
+width: 100%;
+height: 2px;
+background-color: green;
+margin-right: auto;
+margin-left: auto;
+margin-top: 2px;
+margin-bottom: 2px;
+border-width: 1px;
+}
+
+.image-cropper {
+  width: 120px;
+  height: 120px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 100%;
+}
+
+img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
+p.cls {
+    margin: 0;
+}
+
+.center {
+	text-align: center;
+	width: 100%;
+}
+
+.tab {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+</style>
 		<title>Amin Golnari</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -19,13 +62,18 @@
 
 				<!-- Header -->
 					<header id="header">
-						<div class="logo">
-							<span class="icon fa-gem"></span>
-						</div>
+							<div class="image-cropper">
+								<img src="images/amin.jpg" class="rounded"/>
+							</div>
 						<div class="content">
 							<div class="inner">
 								<h1>Amin Golnari</h1>
-								<p>A passionate and multitalented engineer with broad-based experience in electrical engineering and data science. Plus valuable experiences coupled with skills in Python and MATLAB programming, interest in deep learning, and machine vision. Interested in implementing, developing, testing, and deploying high adaptive diverse ML and MV systems.</p>
+								<p class="cls"><b>A passionate and multitalented engineer with broad-based experience in electrical engineering and data science. Plus valuable experiences coupled with skills in Python and MATLAB programming, interest in deep learning, and machine vision. Interested in implementing, developing, testing, and deploying high adaptive diverse ML and MV systems.</b></p>
+								<p class="cls"><b>I see electrical and computer science as a purposeful, futuristic, and extraordinary vocation, especially towards assisting humans. The future of earth will have filled with novel high-tech types of equipment, like self-driving cars, autonomous aircraft, and servant robots. I can visualize smart cities elegantly, the cities which learn what happens and hear us. The breadth of the cosmos is the same as the depth of your dreams. Whisper it continuously. I would say ambition is an inseparable component of success and dynamism in life. Life consists of contradictions that you could face.</b></p>
+							<div id="bottom"></div>
+							<a href="#bottom">Go Down</a>
+							<br><span class="fas fa-angle-double-down"></span>
+							<!-- <a href="#bottom"><span class="fas fa-angle-double-down"></span></a> -->
 							</div>
 						</div>
 						<nav>
@@ -37,6 +85,12 @@
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
+						<div>
+								<h3>Research Interests</h3>
+								<p align="center">Deep Learning, Machine Vision, Self-driving Cars, Computational Creativity</p>
+								<h3>Skills</h3>
+								<p align="center"><b>Programming:</b> MATLAB & Simulink, Python, C/C++<br><b>Others:</b> LaTeX, Microsoft Visio, Word & PowerPoint, Googling, Jupyter Notebook</p>
+						</div>
 					</header>
 
 				<!-- Main -->
@@ -44,33 +98,93 @@
 
 						<!-- Intro -->
 							<article id="intro">
-								<h2 class="major">Intro</h2>
-								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p align="justify">I see electrical and computer science as a purposeful, futuristic, and extraordinary vocation, especially towards assisting humans. The future of earth will have filled with novel high-tech types of equipment, like self-driving cars, autonomous aircraft, and servant robots. I can visualize smart cities elegantly, the cities which learn what happens and hear us. The breadth of the cosmos is the same as the depth of your dreams. Whisper it continuously. I would say ambition is an inseparable component of success and dynamism in life. Life consists of contradictions that you could face.</p>
-								<p>Date of Birth: 3 October 1991</p>
-								<p>Place of Birth | Nationality: Qazvin, Iran | Iranian</p>
-								<p>Gender | Marital Status: Male | Single</p>
-								<p>Language: Persian (Native), English (Intermediate)</p>
+								<h2 style="text-align:center">Personal Information</h2>
+								<!-- <span class="image main"><img src="images/pic01.jpg" alt="" /></span> -->
+								
+								<p align="center">Date of Birth: 3 October 1991<br>Place of Birth | Nationality: Qazvin, Iran | Iranian<br>Gender | Marital Status: Male | Single<br>Language: Persian (Native), English (Intermediate)</p>
 							</article>
 
 						<!-- Work -->
 							<article id="work">
-								<h2 class="major">Work</h2>
-								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<h2 style="text-align:center">Work Experiences</h2>
+								<!-- <span class="image main"><img src="images/pic02.jpg" alt="" /></span> -->
+								<h3>1. Teaching Experiences</h3>
+								<h3>A. Independent Data Engineer and Researcher</h3>
+								<p align="justify"><b>Details:</b> Researching and developing deep learning, machine vision, and computational creativity; and working on related projects as a freelance.</p>
+								<p align="center", style="padding-top:1px"><b>Institute:</b> Self-Employed<br><b>Start:</b> 2020, March | <b>End:</b> Present</p>
+								<hr>
+								<h3>B. Private Tutor</h3>
+								<p align="justify"><b>Details:</b> It was like an exciting journey working as a private tutor. To short, my focus was teaching lectures like Engineering Mathematics, Linear Control, and Signals & Systems Analysis.</p>
+								<p align="center", style="padding-top:1px"><b>Institute:</b> Self-Employed<br><b>Start:</b> 2013, November | <b>End:</b> 2016, December</p>
+								<hr>
+								<h3>C. Teacher</h3>
+								<p align="justify"><b>Details:</b> Cooperating as a lecturer was an experience that I cannot forget. Being in an active person-in-person learning atmosphere with the act and react by curious students on programming challenges was awesome. The main field of exploring in these classes was computer programming, such as implementing various algorithms in signal processing, control engineering, and neural networks.</p>
+								<p align="center", style="padding-top:1px"><b>Institute:</b> Students Scientific Association of Shahrood University of Technology<br><b>Start:</b> 2017, October | <b>End:</b> 2018, January</p>
+								<hr>
+								<h3>D. Teaching Assistant (TA)</h3>
+								<p align="justify"><b>Details:</b> Being a TA itself is challenging. Especially when you face a group of Ph.D. and M.Sc. students who each act as an investigator and quester. One of my fascinating duties was assisting students with planning and implementing developmentally appropriate activities and strategies.</p>
+								<p align="center", style="padding-top:1px"><b>Institute:</b> Shahrood University of Technology<br><b>Start:</b> 2017, October | <b>End:</b> 2018, January</p>
+								
+								<h3>2. Work Experiences (Industrial and Researching)</h3>
+								<h3>A. Researcher at DSP Laboratory</h3>
+								<p align="justify"><b>Details:</b> The DSP lab brought an unforgettable and informative atmosphere to me. I had been an active person in collaborating with other researchers in this lab. My research always came with investigating machine learning and deep learning. Since starting lab membership, I have ever tried to improve my professional skills by implementing, exploring, and designing different ML and DL methods.</p>
+								<p align="center", style="padding-top:1px"><b>Institute:</b> Digital Signal Processing Laboratory of Shahrood University of Technology<br><b>Start:</b> 2017, February | <b>End:</b> 2019, January</p>
+								<hr>
+								<h3>B. Electrical Apprentice</h3>
+								<p align="justify"><b>Details:</b> I had been working in the electrical engineering maintenance section. This sector is responsible for weekly, monthly, and annual inspections of electrical and electronic devices and power device fixing.</p>
+								<p align="center", style="padding-top:1px"><b>Institute:</b> Iran Electricity Meter Manufacturing Company<br><b>Start:</b> 2015, September | <b>End:</b> 2016, January</p>
+								<hr>
+								<h3>C. Electrical Engineer</h3>
+								<p align="justify"><b>Details:</b> Experience of working as a power engineer has always been fascinating to me. I have experience working both on my own as a freelance engineer and at a private company (Mobtakeraan Faraaz Saaze Caspian San'at) as a part-time engineer. An impressive experience at this company was smartening a greenhouse by auto controlling the temperature, artificial fog, sunlight, etc. Additionally, I have professional work experience in Siemens PLCs and LOGO.</p>
+								<p align="center", style="padding-top:1px"><b>Institute:</b> Mobtakeraan Faraaz Saaze Caspian San'at | Freelance Power Engineer<br><b>Start:</b> 2012, March | <b>End:</b> 2014, December</p>
+
 							</article>
 
 						<!-- About -->
 							<article id="about">
-								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+								<h2 style="text-align:center">Licenses & Certifications</h2>
+								<!-- <span class="image main"><img src="images/pic03.jpg" alt="" /></span> -->
+								<h3>•	Industrial Electricity</h3>
+								<p align="justify"><b>Issued by:</b> Iran Technical & Vocational Training Organization (1380 training hours)<br><b>Date:</b> 2010</p>
+								<hr>
+								<h3>•	PLC Programming</h3>
+								<p align="justify"><b>Issued by:</b> Iran Technical & Vocational Training Organization (240 training hours)<br><b>Date:</b> 2010</p>
+								<hr>
+								<h3>•	Introduction to Deep Learning & Neural Networks with Keras</h3>
+								<p align="justify"><b>Issued by:</b> Coursera <b><span class="tab"></span>Authorized by:</b> IBM<br><b>Date:</b> November 2020<br><a href="https://www.coursera.org/account/accomplishments/verify/QTZ3AVN6M3YG">Click Here To Verfication</a></p>
+								<hr>
+								<h3>•	Introduction to Augmented Reality and ARCore</h3>
+								<p align="justify"><b>Issued by:</b> Coursera <b><span class="tab"></span>Authorized by:</b> Google AR & VR<br><b>Date:</b> December 2020<br><a href="https://www.coursera.org/account/accomplishments/verify/ETVSVNBJUBQW">Click Here To Verfication</a></p>
+								<hr>
+								<h3>•	Introduction to Self-Driving Cars</h3>
+								<p align="justify"><b>Issued by:</b> Coursera <b><span class="tab"></span>Authorized by:</b> University of Toronto<br><b>Date:</b> December 2020<br><a href="https://www.coursera.org/account/accomplishments/verify/GPQZZP9Z5YML">Click Here To Verfication</a></p>
+								<hr>
+								<h3>•	Visual Perception for Self-Driving Cars </h3>
+								<p align="justify"><b>Issued by:</b> Coursera <b><span class="tab"></span>Authorized by:</b> University of Toronto<br><b>Date:</b> February 2021<br><a href="https://www.coursera.org/account/accomplishments/verify/6AQ7XCKGYFR5">Click Here To Verfication</a></p>
+								<hr>
+								<h3>•	Applied Machine Learning in Python </h3>
+								<p align="justify"><b>Issued by:</b> Coursera <b><span class="tab"></span>Authorized by:</b> University of Michigan<br><b>Date:</b> February 2021<br><a href="https://www.coursera.org/account/accomplishments/verify/NJDWHSEX2VWG">Click Here To Verfication</a></p>
+								
+
+								<h2 style="text-align:center">Certificates Related to English Skills</h2>
+								<h3>•	EF SET English Certificate™ (C1 Advanced - 62/100) (Reading & Listening)</h3>
+								<p align="justify"><b>Issued by:</b> EF Standard English Test (EF SET) <b><span class="tab"></span>Authorized by:</b> EF Education First<br><b>Date:</b> July 2021<br><a href="https://www.efset.org/cert/UjRXy6">Click Here To Verfication</a></p>
+								<hr>
+								<h3>•	IELTSx: IELTS Academic Test Preparation </h3>
+								<p align="justify"><b>Issued by:</b> Coursera <b><span class="tab"></span>Authorized by:</b> University of Queensland<br><b>Date:</b> May 2021<br><a href="https://courses.edx.org/certificates/c7f8c60484ad4010a9d804be0763dc25">Click Here To Verfication</a></p>
+								<hr>
+								<h3>•	English and Academic Preparation - Pre-Collegiate </h3>
+								<p align="justify"><b>Issued by:</b> edX <b><span class="tab"></span>Authorized by:</b> Rice University Texas<br><b>Date:</b> June 2021<br><a href="https://www.coursera.org/account/accomplishments/verify/Y7APJSWQMXY4">Click Here To Verfication</a></p>
+								<hr>
+								<h3>•	IELTS Speaking: Improve your Language for Bands 7.0+ </h3>
+								<p align="justify"><b>Issued by:</b> Udemy <b><span class="tab"></span>Authorized by:</b> Prepare for IELTS<br><b>Date:</b> In Progress</p>
+
 							</article>
 
 						<!-- Contact -->
 							<article id="contact">
-								<h2 class="major">Contact</h2>
+								<h2 style="text-align:center">Contact</h2>
+								<!--
 								<form method="post" action="#">
 									<div class="fields">
 										<div class="field half">
@@ -91,12 +205,17 @@
 										<li><input type="reset" value="Reset" /></li>
 									</ul>
 								</form>
+								-->
+								<p align="center">Phone : +98 921 473 4080</p>
+								<p align="center">E-Mail : <a href="amingolnarii@gmail.com">amingolnarii@gmail.com</a></p>
+								<center>
 								<ul class="icons">
 									<li><a href="https://twitter.com/Aminglnr" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="https://www.linkedin.com/in/amin-golnari" class="icon brands fa-linkedin"><span class="label">Facebook</span></a></li>
 									<li><a href="https://instagram.com/deepmentality" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="https://github.com/amingolnari" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
+								</center>
 							</article>
 
 						<!-- Elements -->
@@ -345,7 +464,12 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+														<ul class="icons">
+									<li><a href="https://twitter.com/Aminglnr" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.linkedin.com/in/amin-golnari" class="icon brands fa-linkedin"><span class="label">Facebook</span></a></li>
+									<li><a href="https://instagram.com/deepmentality" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://github.com/amingolnari" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
 					</footer>
 
 			</div>
