@@ -87,9 +87,13 @@ redirect_from:
 
 # Certificates Related to English Skills
 
-* **EF SET English Certificate™** (C1 Advanced - 62/100) (Reading & Listening) | Issued by: EF Standard English Test | July 2021 [URL]
-* **IELTSx: IELTS Academic Test Preparation** | Issued by: edX | May 2021 [URL]
-* **English and Academic Preparation - Pre-Collegiate** | Issued by: Coursera | June 2021 [URL]
+* **[EF SET English Certificate](https://www.efset.org/cert/UjRXy6)**  
+  Issued by: EF Standard English Test (C1 Advanced - 62/100 - Reading & Listening) | July 2021
+* **[IELTSx: IELTS Academic Test Preparation](https://courses.edx.org/certificates/c7f8c60484ad4010a9d804be0763dc25)**  
+  Issued by: edX | May 2021
+* **[English and Academic Preparation - Pre-Collegiate](https://www.coursera.org/account/accomplishments/verify/Y7APJSWQMXY4)**  
+  Issued by: Coursera | June 2021
+
 
 # Some Academic Projects
 
