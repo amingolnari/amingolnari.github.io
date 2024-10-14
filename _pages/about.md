@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me ..."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am a passionate and dedicated Machine Learning Specialist with over four years of experience in data science and more than a decade in electrical engineering. My academic journey began with a **Master's in Electrical Engineering** from Shahrood University of Technology, where I focused on **telecommunications systems** and developed an augmented reality-based face detection system for my dissertation. During this time, I honed my skills in **Python**, **TensorFlow**, **Keras**, and **MATLAB**, which laid the foundation for my subsequent work in machine learning and artificial intelligence.
 
