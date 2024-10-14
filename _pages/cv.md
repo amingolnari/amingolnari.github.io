@@ -94,6 +94,8 @@ redirect_from:
 
 # Some Academic Projects
 
+* **[Learning Representations by Recirculation](https://github.com/amingolnari/Learning-Representations-by-Recirculation/blob/main/RecirculationAlgorithm.ipynb)**: Developed a Jupyter Notebook implementation of the recirculation algorithm proposed by Hinton and McClelland in their paper "Learning Representations by Recirculation," demonstrating the application of autoencoders for unsupervised learning.
+
 * **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
 
 * **High-Resolution Video Processing**: Using OpenCL and OpenCV in Visual Studio C/C++. Addressed challenges of processing high-resolution files (Full-HD or 4K) using GPUs for optimal performance.
