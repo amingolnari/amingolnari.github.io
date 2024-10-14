@@ -3,7 +3,7 @@ title: "DeepFaceAR: Deep Face Recognition and Displaying Personal Information vi
 collection: publications
 category: conferences
 permalink: /publication/2020-02-20-deepfacear
-excerpt: 'This paper is about ...'
+excerpt: 'In this research, we propose a system that combines Deep Neural Networks and Augmented Reality to recognize faces and display information about individuals'
 date: 2020-02-20
 venue: 'International Conference on Machine Vision and Image Processing (MVIP)'
 paperurl: 'https://doi.org/10.1109/MVIP49855.2020.9116873'
