@@ -17,6 +17,13 @@ redirect_from:
   **Title of M.Sc. Dissertation**:  
   [Designing and Implementing a Teachers Information Display System Using Face Detection and Augmented Reality](https://shahroodut.ac.ir/en/thesis/thesis.php?thid=TK690)
 
+
+# Skills
+
+* **Programming**: MATLAB & Simulink, Python, C/C++, TensorFlow, Keras, OpenCV, OpenCL
+* **Others**: LaTeX, Microsoft Visio, Word & PowerPoint, Jupyter Notebook
+
+
 # Experiences
 
 * **Independent Researcher**  
@@ -44,30 +51,6 @@ redirect_from:
   - Leveraged electrical engineering expertise in freelance and industrial company settings as a part-time engineer.
   - Successfully implemented an automation project to optimize a greenhouse environment through control of temperature, artificial fog, sunlight, and other factors using a Siemens PLC.
   - Developed professional proficiency in Siemens PLCs and LOGO programming.
-
-
-# Teaching Experiences
-
-* **Private Tutor**  
-  *Self-Employed*  
-  November 2013 – December 2016  
-  - Guided students in core engineering subjects, including engineering mathematics, linear control systems, and signals & systems analysis.
-
-* **Teacher**  
-  *Students Scientific Association of Shahrood University of Technology*  
-  October 2017 – January 2018  
-  Details: Taught computer programming, focusing on practical applications such as implementing algorithms in signal processing and artificial neural networks.
-
-* **Teaching Assistant (TA)**  
-  *Shahrood University of Technology*  
-  October 2017 – January 2018  
-  - Assisted Ph.D. and M.Sc. students, developing personalized activities and strategies that supported their academic growth.
-
-# Skills
-
-
-* **Programming**: MATLAB & Simulink, Python, C/C++, TensorFlow, Keras, OpenCV, OpenCL
-* **Others**: LaTeX, Microsoft Visio, Word & PowerPoint, Jupyter Notebook
 
 # Licenses & Certifications
 
