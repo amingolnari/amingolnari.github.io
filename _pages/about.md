@@ -7,19 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate and dedicated Machine Learning Specialist with over four years of experience in data science and more than a decade in electrical engineering. My academic journey began with a **Master's in Electrical Engineering** from Shahrood University of Technology, where I focused on **telecommunications systems** and developed an augmented reality-based face detection system for my dissertation. During this time, I honed my skills in **Python**, **TensorFlow**, **Keras**, and **MATLAB**, which laid the foundation for my subsequent work in machine learning and artificial intelligence.
+I am a passionate and dedicated Machine Learning Specialist with over four years of experience in data science and more than a decade in electrical engineering. I obtained my Master's in **Electrical Engineering** with a specialization in **Telecommunication Systems** from the Shahrood University of Technology. During my studies, I developed an augmented reality-based face detection system for my dissertation, where I applied advanced techniques in computer vision and deep learning. This work deepened my research and development skills, particularly in AI-driven solutions, and fostered my passion for tackling complex technical challenges. During this time, I honed my skills in **Python**, **TensorFlow**, **Keras**, and **MATLAB**, which laid the foundation for my subsequent work in machine learning and artificial intelligence.
 
-My interest in AI-driven solutions further evolved during my collaboration with **Shahrood University’s Digital Signal Processing Laboratory**, where I worked on machine vision, signal processing, and generative models. I then contributed to research on **neuroplasticity** and in general, **Medical Imaging** at Ruhr-University Bochum’s **Biopsychology Laboratory**, exploring fMRI & rs-fMRI data using advanced machine learning techniques. These experiences enriched my expertise in deep learning applications for healthcare and neuroscience.
+My interest in AI-driven solutions further evolved during my collaboration with **Shahrood University’s Digital Signal Processing Laboratory**, where I worked on machine vision, signal processing, and generative models. I then contributed to research on **neuroplasticity** and in general, **Medical Imaging**, at Ruhr-University Bochum’s **Biopsychology Laboratory**, exploring fMRI & res-fMRI data using advanced machine learning techniques. These experiences enriched my expertise in deep learning applications for healthcare and computational neuroscience.
 
-I am particularly drawn to research that pushes the boundaries of AI in medical and computational neuroscience applications. This has led me to contribute to projects like **Adaptive Real-Time Multi-Loss Function Optimization** for **cancer segmentation** and **brain tumor segmentation** using attention-based models.
+With a strong foundation in **deep learning** and **computer vision**, I have recently focused my attention on **medical imaging**, motivated by the transformative potential of **machine learning** in healthcare. Over the past year, I have been honing my expertise in this field, combining creativity with a passion for solving complex challenges. My dedication to research, combined with my collaborative mindset and interdisciplinary background, allows me to bring both technical depth and innovative problem-solving to impactful research projects.
 
 ## Research Interests
 
-- **Deep Learning** for medical imaging and computational neuroscience
-- **Machine Vision** and its applications in augmented reality
+- **Deep Learning** and its applications have been central to my research
+- **Machine Vision** and its applications in augmented reality and autonomous driving
 - **Neuroplasticity** and spatial-attention patterns through neuroimaging
 - **Autonomous Robots** and AI-driven control systems
-- **Multi-objective optimization** in deep learning, particularly in medical datasets
 
 ## Skills
 
@@ -32,6 +31,4 @@ I am particularly drawn to research that pushes the boundaries of AI in medical 
   - Generative Models and One-shot Learning
   - Control Systems Engineering (Siemens PLCs, LOGO programming)
 
-I am always eager to collaborate on innovative projects and to contribute to cutting-edge research, particularly in **deep learning**, **computational neuroscience**, and **machine vision**. Beyond technical skills, I value teamwork, humility, and the desire to constantly learn and improve.
-
-You can find more about my work on GitHub, ResearchGate, and LinkedIn.
+I am always eager to collaborate on innovative projects and to contribute to cutting-edge research, particularly in **deep learning**, **computational neuroscience**, and **machine vision**. Beyond technical skills, I value teamwork, humility, and the desire to constantly learn and improve. You can find more about my work on GitHub, ResearchGate, and LinkedIn.
