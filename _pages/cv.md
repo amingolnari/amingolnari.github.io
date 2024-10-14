@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "D E T A I L E D     C U R R I C U L U M     V I T A E"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,14 +10,16 @@ redirect_from:
 {% include base_path %}
 
 # Education
-======
-* **Master of Electrical Engineering** (System Telecommunications)  
+
+* **Master of Electrical Engineering** (Telecommunications Systems)  
   Shahrood University of Technology | Shahrood  
   September 2016 – January 2019  
-  Title of M.Sc. Dissertation: [Designing and Implementing a Teachers Information Display System Using Face Detection and Augmented Reality](https://shahroodut.ac.ir/en/thesis/thesis.php?thid=TK690)
+  Title of M.Sc. Dissertation:
+
+  [Designing and Implementing a Teachers Information Display System Using Face Detection and Augmented Reality](https://shahroodut.ac.ir/en/thesis/thesis.php?thid=TK690)
 
 # Experiences
-======
+
 * **Independent Researcher**  
   *Self-Employed*  
   August 2022 – Present  
@@ -46,7 +48,7 @@ redirect_from:
 
 
 # Teaching Experiences
-======
+
 * **Private Tutor**  
   *Self-Employed*  
   November 2013 – December 2016  
@@ -63,12 +65,13 @@ redirect_from:
   - Assisted Ph.D. and M.Sc. students, developing personalized activities and strategies that supported their academic growth.
 
 # Skills
-======
+
+
 * **Programming**: MATLAB & Simulink, Python, C/C++, TensorFlow, Keras, OpenCV, OpenCL
 * **Others**: LaTeX, Microsoft Visio, Word & PowerPoint, Jupyter Notebook
 
 # Licenses & Certifications
-======
+
 * **[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/NJDWHSEX2VWG)**  
   Issued by: Coursera | Authorized by: University of Michigan | February 2021
 * **[Visual Perception for Self-Driving Cars](https://www.coursera.org/account/accomplishments/verify/6AQ7XCKGYFR5)**  
@@ -83,13 +86,13 @@ redirect_from:
   Issued by: Coursera | Authorized by: University of Toronto | December 2020
 
 # Certificates Related to English Skills
-======
+
 * **EF SET English Certificate™** (C1 Advanced - 62/100) (Reading & Listening) | Issued by: EF Standard English Test | July 2021 [URL]
 * **IELTSx: IELTS Academic Test Preparation** | Issued by: edX | May 2021 [URL]
 * **English and Academic Preparation - Pre-Collegiate** | Issued by: Coursera | June 2021 [URL]
 
 # Some Academic Projects
-======
+
 * **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
 
 * **High-Resolution Video Processing**: Using OpenCL and OpenCV in Visual Studio C/C++. Addressed challenges of processing high-resolution files (Full-HD or 4K) using GPUs for optimal performance.
@@ -108,7 +111,7 @@ redirect_from:
 
 
 Skills
-======
+
 * **Programming Languages**: Python, MATLAB, C/C++, TensorFlow, Keras, OpenCV, OpenCL
 * **Machine Learning Techniques**: Deep Learning, Computer Vision, Medical Imaging
   * Neural Networks
