@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "D E T A I L E D     C U R R I C U L U M     V I T A E"
+title: "Detailed CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
