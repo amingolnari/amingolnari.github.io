@@ -114,7 +114,7 @@ redirect_from:
 * **Closed-Loop System Stability Analysis**: Implemented state-space model analysis using MATLAB & Simulink for linear and nonlinear control systems.
 
 
-Skills
+# Skills
 
 * **Programming Languages**: Python, MATLAB, C/C++, TensorFlow, Keras, OpenCV, OpenCL
 * **Machine Learning Techniques**: Deep Learning, Computer Vision, Medical Imaging
