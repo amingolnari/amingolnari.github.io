@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Ceriticates"
-    url: /ceriticates/
+  # - title: "Ceriticates"
+  #   url: /ceriticates/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
