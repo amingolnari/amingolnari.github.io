@@ -27,7 +27,7 @@ With a strong foundation in **deep learning** and **computer vision**, I have re
 - **Technical Expertise**: 
   - Deep Learning, Machine Learning, and Computer Vision
   - Medical Imaging Analysis and Segmentation
-  - Signal Processing and Neuroimaging (fMRI, LFP analysis)
+  - Signal Processing and Neuroimaging
   - Generative Models and One-shot Learning
   - Control Systems Engineering (Siemens PLCs, LOGO programming)
 
