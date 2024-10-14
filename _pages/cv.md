@@ -11,11 +11,10 @@ redirect_from:
 
 # Education
 
-* **Master of Electrical Engineering** (Telecommunications Systems)  
-  Shahrood University of Technology | Shahrood  
-  September 2016 – January 2019  
-  Title of M.Sc. Dissertation:
-
+* **Master of Electrical Engineering**, Telecommunications Systems  
+  **University**: Shahrood University of Technology | **City**: Shahrood  
+  **Start**: 2016, September – **End**: 2019, January  
+  **Title of M.Sc. Dissertation**:  
   [Designing and Implementing a Teachers Information Display System Using Face Detection and Augmented Reality](https://shahroodut.ac.ir/en/thesis/thesis.php?thid=TK690)
 
 # Experiences
