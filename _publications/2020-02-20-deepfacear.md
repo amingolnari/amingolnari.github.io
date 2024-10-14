@@ -2,7 +2,7 @@
 title: "DeepFaceAR: Deep Face Recognition and Displaying Personal Information via Augmented Reality"
 collection: publications
 category: conferences
-permalink: /publication/2020-deepfacear
+permalink: /publication/2020-02-20-deepfacear
 excerpt: 'This paper is about ...'
 date: 2020-02-20
 venue: 'International Conference on Machine Vision and Image Processing (MVIP)'
