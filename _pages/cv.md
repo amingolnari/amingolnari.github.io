@@ -85,6 +85,21 @@ redirect_from:
 * **[Introduction to Self-Driving Cars](https://www.coursera.org/account/accomplishments/verify/6AQ7XCKGYFR5)**  
   Issued by: Coursera | Authorized by: University of Toronto | December 2020
 
+# Guided Projects
+
+* **[Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/SV3V33CQR6KQ)**  
+  Issued by: Coursera | May 2021
+* **[Analyzing Video with OpenCV and NumPy](https://www.coursera.org/account/accomplishments/verify/8MPPUJQLWADY)**  
+  Issued by: Coursera | November 2020
+* **[Building Stock Returns Heatmap with Tableau](https://www.coursera.org/account/accomplishments/verify/7AZZVL6G48Z6)**  
+  Issued by: Coursera | November 2020
+* **[Detecting COVID-19 with Chest X-Ray using PyTorch](https://www.coursera.org/account/accomplishments/verify/3K5QNESQDV6X)**  
+  Issued by: Coursera | November 2020
+* **[Text Classification Using Word2Vec and LSTM on Keras](https://www.coursera.org/account/accomplishments/verify/X4X9EC5DVMUA)**  
+  Issued by: Coursera | November 2020
+* **[Transfer Learning for NLP with TensorFlow Hub](https://www.coursera.org/account/accomplishments/verify/PR2R453PK22U)**  
+  Issued by: Coursera | November 2020
+
 # Certificates Related to English Skills
 
 * **[EF SET English Certificate](https://www.efset.org/cert/UjRXy6)**  
