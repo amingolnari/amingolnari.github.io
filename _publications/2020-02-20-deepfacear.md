@@ -9,4 +9,6 @@ venue: 'International Conference on Machine Vision and Image Processing (MVIP)'
 paperurl: 'https://doi.org/10.1109/MVIP49855.2020.9116873'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract
+
+Biometric recognition is a popular topic in machine vision. Deep Neural Networks have been recently used in several applications, especially in biometric recognition. In this paper, we combine a Deep Neural Network alongside Augmented Reality to produce a system capable of recognizing the faces of individuals and displaying some information about the individual as an Augmented Reality. We used a dataset containing 1200 face images of 100 faculty members of the Shahrood University of Technology. After training the proposed Deep Network, it reached the recognition accuracy of 99.45%. We also provided some graphical targets for each person that contains his information. When a person is identified by the deep network, the target image provided for augmented reality is aligned with the angle and dimensions of the detected face and displayed on top of it.
