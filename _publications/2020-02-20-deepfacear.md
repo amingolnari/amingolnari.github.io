@@ -21,6 +21,9 @@ Biometric recognition is a popular topic in machine vision. Deep Neural Networks
 
 ![7](https://github.com/user-attachments/assets/681cff19-cffa-4c19-8792-dbdfe16bbc24)
 
+![12](https://github.com/user-attachments/assets/9bbe12fc-6c35-4e42-b61d-7a9e4a690130)
+
+
 
 ## Cite This Research:
 
