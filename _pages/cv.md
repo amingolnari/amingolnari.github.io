@@ -106,7 +106,7 @@ redirect_from:
 
 * **Speech Preprocessing and Emotion RNN-based Classification**: Compared MelSpectrogram (ConvLSTM) and raw data (LSTM) in Python, addressing speech processing challenges with high correlation datasets.
 
-* **Image-Processing Android App Development**: Created an Android app using OpenCV in Android Studio (Java) for tasks like Canny edge detection and face detection.
+* **[Image-Processing Android App Development](https://github.com/amingolnari/Android-OpenCV)**: Created an Android app using OpenCV in Android Studio (Java) for tasks like Canny edge detection and face detection.
 
 * **Neuroimage Analysis**: Analyzed human brain fMRI and resting-state fMRI data using MATLAB/Python (SPM12/FSL) to detect spatial attention regions in task-driven fMRI analysis.
 
