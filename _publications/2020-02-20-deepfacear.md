@@ -18,8 +18,6 @@ Biometric recognition is a popular topic in machine vision. Deep Neural Networks
 ## GitHub Repository    
 [https://github.com/amingolnari/DeepFaceAR](https://github.com/amingolnari/DeepFaceAR)
 
-![movie](https://github.com/amingolnari/amingolnari.github.io/blob/master/files/deepfacear.gif)
-
 ![image](https://github.com/user-attachments/assets/bab700cf-d2a7-424c-b077-cf8e0c5e0806)
 
 ![1](https://github.com/user-attachments/assets/52d9129c-c0fc-4ba8-bfc6-859c743bd0d5)
