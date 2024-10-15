@@ -98,7 +98,7 @@ redirect_from:
 
 * **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
 
-* **High-Resolution Video Processing**: Using OpenCL and OpenCV in Visual Studio C/C++. Addressed challenges of processing high-resolution files (Full-HD or 4K) using GPUs for optimal performance.
+* **[High-Resolution Video Processing](https://github.com/amingolnari/OpenCL-Video-Processing)**: Using OpenCL and OpenCV in Visual Studio C/C++. Addressed challenges of processing high-resolution files (Full-HD or 4K) using GPUs for optimal performance.
 
 * **Applications of CNN on CIFAR-10 and MNIST Datasets**: Implemented linear and non-linear regression using Keras and TensorFlow in Python. Explored CNN layers, activation functions, kernel size changes, and pooling.
 
