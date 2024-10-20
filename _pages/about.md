@@ -17,7 +17,7 @@ While maintaining a keen interest in **autonomous driving**, I have recently shi
 
 - **Deep Learning** and its applications have been central to my research
 - **Machine Vision** and its applications in augmented reality and autonomous driving
-- **Neuroplasticity** and spatial-attention patterns through neuroimaging
+- **Neuroimaging** neuroplasticity and spatial-attention patterns
 - **Autonomous Robots** and AI-driven control systems
 
 ## Skills
