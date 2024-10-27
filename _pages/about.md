@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 
 I am a passionate and dedicated Machine Learning Specialist with over four years of experience in data science and more than a decade in Electrical Engineering. I obtained my Master's in **Electrical Engineering** with a specialization in **Telecommunications Systems** from the **Shahrood University of Technology**. During my studies, I developed an augmented reality-based face detection system for my dissertation, where I applied advanced techniques in **computer vision** and **deep learning**. This work deepened my research and development skills, particularly in AI-driven solutions, and fostered my passion for tackling complex technical challenges. During this time, I honed my skills in **Python**, **TensorFlow**, **Keras**, and **MATLAB**, which laid the foundation for my subsequent work in machine learning and artificial intelligence.
 
@@ -34,4 +34,4 @@ While maintaining a keen interest in **autonomous driving**, I have recently shi
   - Control Systems Engineering (Siemens PLCs, LOGO programming)
 
 I am always eager to collaborate on innovative projects and to contribute to cutting-edge research, particularly in **deep learning**, **computational neuroscience**, and **machine vision**. Beyond technical skills, I value teamwork, humility, and the desire to constantly learn and improve. You can find more about my work on GitHub, ResearchGate, and LinkedIn.
-</div>
+</p>
