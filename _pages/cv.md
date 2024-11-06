@@ -17,6 +17,10 @@ redirect_from:
   **Title of M.Sc. Dissertation**:  
   [Designing and Implementing a Teachers Information Display System Using Face Detection and Augmented Reality](https://shahroodut.ac.ir/en/thesis/thesis.php?thid=TK690)
 
+* **Bachelor of Control Technology Engineering**, Instrumentation
+* **Associate of Electrotechnics**, Industrial Electricity
+* **High School Diploma**, Industrial Electricity
+
 
 # Skills
 
