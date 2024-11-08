@@ -17,7 +17,9 @@ redirect_from:
   **Title of M.Sc. Dissertation**:  
   [Designing and Implementing a Teachers Information Display System Using Face Detection and Augmented Reality](https://shahroodut.ac.ir/en/thesis/thesis.php?thid=TK690)
 
-* **Bachelor of Control Technology Engineering**, Instrumentation
+* **Bachelor of Control Technology Engineering**, Instrumentation    
+  **Title of B.Sc. Final Project**:    
+  Designing and Simulating a DC Motor Speed Controller Using a PID Controller in MATLAB
 * **Associate of Electrotechnics**, Industrial Electricity
 * **High School Diploma**, Industrial Electricity
 
@@ -116,12 +118,3 @@ redirect_from:
 
 * **Closed-Loop System Stability Analysis**: Implemented state-space model analysis using MATLAB & Simulink for linear and nonlinear control systems.
 
-
-# Skills
-
-* **Programming Languages**: Python, MATLAB, C/C++, TensorFlow, Keras, OpenCV, OpenCL
-* **Machine Learning Techniques**: Deep Learning, Computer Vision, Medical Imaging
-  * Neural Networks
-  * Image Segmentation
-  * Data Analysis
-* **Software Tools**: Jupyter Notebook, LaTeX, Microsoft Office Suite
