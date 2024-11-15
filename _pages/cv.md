@@ -102,6 +102,9 @@ redirect_from:
 
 * **[Learning Representations by Recirculation](https://github.com/amingolnari/Learning-Representations-by-Recirculation/blob/main/RecirculationAlgorithm.ipynb)**: Developed a Jupyter Notebook implementation of the recirculation algorithm proposed by Hinton and McClelland in their paper "Learning Representations by Recirculation," demonstrating the application of autoencoders for unsupervised learning.
 
+* **Humidification-Dehumidification Desalination Performance Prediction**: This project utilizes probabilistic machine learning models, such as Bayesian Neural Networks, SVR, DT, RF, and MLP, to predict HDH system performance based on temperature and mass flow rate inputs. The models estimate output ratio, heat transfer rate, and energy consumption.
+ 
+
 * **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
 
 * **[High-Resolution Video Processing](https://github.com/amingolnari/OpenCL-Video-Processing)**: Using OpenCL and OpenCV in Visual Studio C/C++. Addressed challenges of processing high-resolution files (Full-HD or 4K) using GPUs for optimal performance.
