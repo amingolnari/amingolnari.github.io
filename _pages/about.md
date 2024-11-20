@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**A passionate and dedicated Machine Learning Specialist.**
+**A Passionate and Dedicated Machine Learning Specialist.**
 
 My interest in AI-driven solutions further evolved during my collaboration with **Shahrood University’s Digital Signal Processing Laboratory**, where I worked on **Deep Learning**, **Machine Vision**, and **Signal Processing**. I then contributed to research on **Medical Imaging** exploring fMRI & res-fMRI data using advanced machine learning techniques. These experiences enriched my expertise in deep learning applications for healthcare and computational neuroscience.
 
