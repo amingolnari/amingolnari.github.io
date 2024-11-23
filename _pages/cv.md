@@ -24,12 +24,6 @@ redirect_from:
 * **High School Diploma**, Industrial Electricity
 
 
-# Skills
-
-* **Programming**: MATLAB & Simulink, Python, C/C++, TensorFlow, Keras, OpenCV, OpenCL
-* **Others**: LaTeX, Microsoft Visio, Word & PowerPoint, Jupyter Notebook
-
-
 # Experiences
 
 * **Independent Researcher**  
@@ -38,25 +32,6 @@ redirect_from:
   -	Focused on independent research and professional development, working as a freelancer.
   -	Authored & supervised research papers. 
 
-
-* **Machine Learning Specialist (Remote Researcher)**  
-  *Ruhr University Bochum, Biopsychology Laboratory*  
-  September 2021 – September 2022  
-  - Analyzed fMRI and resting-state fMRI data to investigate neuroplasticity and spatial-attention patterns using SPM12 and FSL. Reviewed recent advancements in machine learning for neuroimaging to stay updated with evolving techniques.
-
-* **Researcher at DSP Laboratory**  
-  *Digital Signal Processing Laboratory, Shahrood University of Technology*  
-  February 2017 – January 2019  
-  - Actively collaborated with researchers on projects involving machine learning and computer vision.
-  - Enhanced my skillset by implementing, exploring, and designing various machine vision and image & signal processing techniques, such as developing generative models for one-shot image face datasets.
-
-
-* **Electrical & Control Engineer - PLC Programmer**  
-  *Mobtakeraan Faraaz Saaze Caspian San'at* (Freelance Power Engineer)  
-  March 2012 – December 2014  
-  - Leveraged electrical engineering expertise in freelance and industrial company settings as a part-time engineer.
-  - Successfully implemented an automation project to optimize a greenhouse environment through control of temperature, artificial fog, sunlight, and other factors using a Siemens PLC.
-  - Developed professional proficiency in Siemens PLCs and LOGO programming.
 
 # Licenses & Certifications
 
