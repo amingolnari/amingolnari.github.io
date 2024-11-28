@@ -26,11 +26,24 @@ redirect_from:
 
 # Experiences
 
-* **Independent Researcher**  
+* **Independent ML Researcher**  
   *Self-Employed*  
   August 2022 – Present  
   -	Focused on independent research and professional development, working as a freelancer.
-  -	Authored & supervised research papers. 
+  -	Authored & supervised research papers.
+
+* **Machine Learning Specialist (Remote Researcher)**  
+  *Germany, Ruhr University Bochum, Biopsychology Laboratory* 
+  -	Analyzed fMRI and resting-state fMRI data to investigate and process medical datasets using SPM12 and FSL. Reviewed recent advancements in machine learning for neuroimaging to stay updated with evolving techniques. Supervised by Dr. Mehdi Behroozi.
+
+* **Researcher at Digital Signal Processing Laboratory**  
+  *Iran, DSP Laboratory of Shahrood University of Technology* 
+  -	Actively collaborated with researchers on projects involving machine learning and computer vision.
+  -	Enhanced my skillset by implementing, exploring, and designing various machine vision and image & signal processing techniques, such as developing generative models for one-shot image face datasets.
+
+* **Electrical & Control Engineer - PLC Programmer**  
+  *Iran, Mobtakeraan Faraaz Saaze Caspian San'at* 
+  -	Leveraged electrical engineering expertise in freelance and industrial company settings as a part-time engineer.
 
 
 # Licenses & Certifications
@@ -73,12 +86,13 @@ redirect_from:
   Issued by: Coursera | June 2021
 
 
-# Some Academic Projects
+# Contributions and Academic Projects
+
+* **[Hippocampus Sharp Wave Ripple Detection](https://colab.research.google.com/drive/1eaP046Sz_EGbKcjHsWPC7Bk4N6wdZNDv)**: Developed a Sharp Wave Ripple detection framework using Python and MATLAB and LFP signals, leveraging Savitzky-Golay filtering and Hilbert transforms. Integrated and compared five algorithms, including three from the [Eden-Kramer Lab](https://github.com/Eden-Kramer-Lab) and one by a post-doc researcher from the University of Lethbridge. This work contributes a novel algorithm tailored to ripple detection, improving the field's ability to analyze hippocampal activity in electrophysiological data.
 
 * **[Learning Representations by Recirculation](https://github.com/amingolnari/Learning-Representations-by-Recirculation/blob/main/RecirculationAlgorithm.ipynb)**: Developed a Jupyter Notebook implementation of the recirculation algorithm proposed by Hinton and McClelland in their paper "Learning Representations by Recirculation," demonstrating the application of autoencoders for unsupervised learning.
 
-* **Humidification-Dehumidification Desalination Performance Prediction**: This project utilizes probabilistic machine learning models, such as Bayesian Neural Networks, SVR, DT, RF, and MLP, to predict HDH system performance based on temperature and mass flow rate inputs. The models estimate output ratio, heat transfer rate, and energy consumption.
- 
+* **Humidification-Dehumidification Desalination Performance Prediction**: This project utilizes probabilistic machine learning models, such as Bayesian Neural Networks, SVR, DT, RF, and MLP, to predict HDH system performance based on temperature and mass flow rate inputs. The models estimate output ratio, heat transfer rate, and energy consumption. In collaboration with a PhD student from the Mechanical Engineering department of the Shahrood University of Technology.
 
 * **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
 
