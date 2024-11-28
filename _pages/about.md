@@ -9,6 +9,8 @@ redirect_from:
 
 **A Passionate and Dedicated Machine Learning Specialist.**
 
+![image](https://github.com/user-attachments/assets/ad81e487-b210-4820-b23c-d3c31e8c669f)
+
 My interest in AI-driven solutions further evolved during my collaboration with **Shahrood University’s Digital Signal Processing Laboratory**, where I worked on **Deep Learning**, **Machine Vision**, and **Signal Processing**. I then contributed to research on **Medical Imaging** exploring fMRI & res-fMRI data using advanced machine learning techniques. These experiences enriched my expertise in deep learning applications for healthcare and computational neuroscience.
 
 I have recently shifted my primary focus to **medical imaging**. Motivated by the transformative potential of **machine learning** in **healthcare**, I leverage my strong foundation in machine learning to contribute to this field. Over the past year, I have been honing my expertise in this field, combining creativity with a passion for solving complex challenges. My dedication to research, combined with my collaborative mindset and interdisciplinary background, allows me to bring both technical depth and innovative problem-solving to impactful research projects.
