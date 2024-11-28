@@ -34,7 +34,7 @@ redirect_from:
 
 * **Machine Learning Specialist (Remote Researcher)**  
   *Germany, Ruhr University Bochum, Biopsychology Laboratory* 
-  -	Analyzed fMRI and resting-state fMRI data to investigate and process medical datasets using SPM12 and FSL. Reviewed recent advancements in machine learning for neuroimaging to stay updated with evolving techniques. Supervised by Dr. Mehdi Behroozi.
+  -	Analyzed fMRI and resting-state fMRI data to investigate and process medical datasets using SPM12 and FSL. Reviewed recent advancements in machine learning for neuroimaging to stay updated with evolving techniques.
 
 * **Machine Learning Teacher (Freelance)**  
   *Iran, Shahrood University of Technology* 
