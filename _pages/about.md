@@ -16,8 +16,8 @@ I have recently shifted my primary focus to **medical imaging**. Motivated by th
 ## Research Interests
 
 - **Deep Learning** and its applications have been central to my research
-- **Machine Vision** and its applications in augmented reality and autonomous driving
-- **Neuroimaging** neuroplasticity and spatial-attention patterns
+- **Neuroimaging** neuroplasticity and spatial-attention patterns, MRI, fMRI, and medical signals
+- **Machine Vision** and its applications in neuroscience, augmented reality, and autonomous driving
 - **Autonomous Robots** and AI-driven control systems
 
 ## Skills
