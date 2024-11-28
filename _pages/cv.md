@@ -62,7 +62,7 @@ redirect_from:
 
 * **[Hippocampus Sharp Wave Ripple Detection](https://colab.research.google.com/drive/1eaP046Sz_EGbKcjHsWPC7Bk4N6wdZNDv)**: Developed a Sharp Wave Ripple detection framework using Python and MATLAB and LFP signals, leveraging Savitzky-Golay filtering and Hilbert transforms. Integrated and compared five algorithms, including three from the [Eden-Kramer Lab](https://github.com/Eden-Kramer-Lab) and one by a post-doc researcher from the University of Lethbridge. This work contributes a novel algorithm tailored to ripple detection, improving the field's ability to analyze hippocampal activity in electrophysiological data.
 
-* **[Learning Representations by Recirculation](https://github.com/amingolnari/Learning-Representations-by-Recirculation)**: Developed a Jupyter Notebook implementation of the recirculation algorithm proposed by Hinton and McClelland in their paper "Learning Representations by Recirculation," demonstrating the application of autoencoders for unsupervised learning.
+* **[Learning Representations by Recirculation](https://github.com/amingolnari/Learning-Representations-by-Recirculation)**: Developed a Jupyter Notebook implementation of the recirculation algorithm proposed by Hinton and McClelland in their paper "Learning Representations by Recirculation," demonstrating the application of autoencoders for unsupervised learning. *A task completed for an interview for a Ph.D. position under the supervision of Prof. Majid Mohajerani*.
 
 * **Neuroimage Analysis**: Analyzed human brain fMRI and resting-state fMRI data using MATLAB/Python (SPM12/FSL) to detect spatial attention regions in task-driven fMRI analysis.
 
