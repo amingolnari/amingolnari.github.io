@@ -68,7 +68,7 @@ redirect_from:
 
 * **Visual Learning Induces Changes in Resting-State fMRI**: Gaining experience in cognitive neuroscience and medical data processing such as brain extraction, registration, and segmentation using SPM12 and FSL. 
 
-* **Humidification-Dehumidification Desalination Performance Prediction**: This project utilizes probabilistic machine learning models, such as Bayesian Neural Networks, SVR, DT, RF, and MLP, to predict HDH system performance based on temperature and mass flow rate inputs. The models estimate output ratio, heat transfer rate, and energy consumption. In collaboration with a PhD student from the Mechanical Engineering department of the Shahrood University of Technology.
+* **Humidification-Dehumidification Desalination Performance Prediction**: This project utilizes probabilistic machine learning models, such as Bayesian Neural Networks, SVR, DT, RF, and MLP, to predict HDH system performance based on temperature and mass flow rate inputs. The models estimate output ratio, heat transfer rate, and energy consumption. *In collaboration with a PhD student from the Mechanical Engineering department of the Shahrood University of Technology*.
 
 * **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
 
