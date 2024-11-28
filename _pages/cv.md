@@ -36,6 +36,18 @@ redirect_from:
   *Germany, Ruhr University Bochum, Biopsychology Laboratory* 
   -	Analyzed fMRI and resting-state fMRI data to investigate and process medical datasets using SPM12 and FSL. Reviewed recent advancements in machine learning for neuroimaging to stay updated with evolving techniques. Supervised by Dr. Mehdi Behroozi.
 
+* **Machine Learning Teacher (Freelance)**  
+  *Iran, Shahrood University of Technology* 
+  -	I organized and led a Deep Learning course for graduate students, covering fundamental concepts of machine learning using TensorFlow and Keras.
+
+* **Computer Programming Teacher**  
+  *Iran, Students Scientific Association of the Shahrood University of Technology* 
+  -	I led two separate computer programming courses focused on MATLAB over two semesters.
+
+* **Teaching Assistant**  
+  *Iran, My Universities* 
+  -	I served as a TA for undergraduate and graduate students. Graduate: Neural Networks; Undergraduate:  Analysis and Synthesis of Signals and Systems, Linear Control Systems, Engineering Mathematics.
+
 * **Researcher at Digital Signal Processing Laboratory**  
   *Iran, DSP Laboratory of Shahrood University of Technology* 
   -	Actively collaborated with researchers on projects involving machine learning and computer vision.
