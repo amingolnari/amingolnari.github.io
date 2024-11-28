@@ -58,6 +58,33 @@ redirect_from:
   -	Leveraged electrical engineering expertise in freelance and industrial company settings as a part-time engineer.
 
 
+# Contributions and Academic Projects
+
+* **[Hippocampus Sharp Wave Ripple Detection](https://colab.research.google.com/drive/1eaP046Sz_EGbKcjHsWPC7Bk4N6wdZNDv)**: Developed a Sharp Wave Ripple detection framework using Python and MATLAB and LFP signals, leveraging Savitzky-Golay filtering and Hilbert transforms. Integrated and compared five algorithms, including three from the [Eden-Kramer Lab](https://github.com/Eden-Kramer-Lab) and one by a post-doc researcher from the University of Lethbridge. This work contributes a novel algorithm tailored to ripple detection, improving the field's ability to analyze hippocampal activity in electrophysiological data.
+
+* **[Learning Representations by Recirculation](https://github.com/amingolnari/Learning-Representations-by-Recirculation)**: Developed a Jupyter Notebook implementation of the recirculation algorithm proposed by Hinton and McClelland in their paper "Learning Representations by Recirculation," demonstrating the application of autoencoders for unsupervised learning.
+
+* **Neuroimage Analysis**: Analyzed human brain fMRI and resting-state fMRI data using MATLAB/Python (SPM12/FSL) to detect spatial attention regions in task-driven fMRI analysis.
+
+* **Visual Learning Induces Changes in Resting-State fMRI**: Gaining experience in cognitive neuroscience and medical data processing such as brain extraction, registration, and segmentation using SPM12 and FSL. 
+
+* **Humidification-Dehumidification Desalination Performance Prediction**: This project utilizes probabilistic machine learning models, such as Bayesian Neural Networks, SVR, DT, RF, and MLP, to predict HDH system performance based on temperature and mass flow rate inputs. The models estimate output ratio, heat transfer rate, and energy consumption. In collaboration with a PhD student from the Mechanical Engineering department of the Shahrood University of Technology.
+
+* **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
+
+* **[High-Resolution Video Processing](https://github.com/amingolnari/OpenCL-Video-Processing)**: Using OpenCL and OpenCV in Visual Studio C/C++. Addressed challenges of processing high-resolution files (Full-HD or 4K) using GPUs for optimal performance.
+
+* **Applications of CNN on CIFAR-10 and MNIST Datasets**: Implemented linear and non-linear regression using Keras and TensorFlow in Python. Explored CNN layers, activation functions, kernel size changes, and pooling.
+
+* **Multi-Thread Operation of a High-Resolution Convolutional Layer**: Testing performance on GPU vs. CPU using OpenCL and OpenCV in Visual Studio C/C++.
+
+* **Speech Preprocessing and Emotion RNN-based Classification**: Compared MelSpectrogram (ConvLSTM) and raw data (LSTM) in Python, addressing speech processing challenges with high correlation datasets.
+
+* **[Image-Processing Android App Development](https://github.com/amingolnari/Android-OpenCV)**: Created an Android app using OpenCV in Android Studio (Java) for tasks like Canny edge detection and face detection.
+
+* **Closed-Loop System Stability Analysis**: Implemented state-space model analysis using MATLAB & Simulink for linear and nonlinear control systems.
+
+
 # Licenses & Certifications
 
 * **[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/NJDWHSEX2VWG)**  
@@ -96,29 +123,3 @@ redirect_from:
   Issued by: edX | May 2021
 * **[English and Academic Preparation - Pre-Collegiate](https://www.coursera.org/account/accomplishments/verify/Y7APJSWQMXY4)**  
   Issued by: Coursera | June 2021
-
-
-# Contributions and Academic Projects
-
-* **[Hippocampus Sharp Wave Ripple Detection](https://colab.research.google.com/drive/1eaP046Sz_EGbKcjHsWPC7Bk4N6wdZNDv)**: Developed a Sharp Wave Ripple detection framework using Python and MATLAB and LFP signals, leveraging Savitzky-Golay filtering and Hilbert transforms. Integrated and compared five algorithms, including three from the [Eden-Kramer Lab](https://github.com/Eden-Kramer-Lab) and one by a post-doc researcher from the University of Lethbridge. This work contributes a novel algorithm tailored to ripple detection, improving the field's ability to analyze hippocampal activity in electrophysiological data.
-
-* **[Learning Representations by Recirculation](https://github.com/amingolnari/Learning-Representations-by-Recirculation)**: Developed a Jupyter Notebook implementation of the recirculation algorithm proposed by Hinton and McClelland in their paper "Learning Representations by Recirculation," demonstrating the application of autoencoders for unsupervised learning.
-
-* **Humidification-Dehumidification Desalination Performance Prediction**: This project utilizes probabilistic machine learning models, such as Bayesian Neural Networks, SVR, DT, RF, and MLP, to predict HDH system performance based on temperature and mass flow rate inputs. The models estimate output ratio, heat transfer rate, and energy consumption. In collaboration with a PhD student from the Mechanical Engineering department of the Shahrood University of Technology.
-
-* **Generating Fake Faces**: Implementing GANs & DC-GANs using one-shot samples in Python. Focused on data augmentation using a dataset with just one image per class.
-
-* **[High-Resolution Video Processing](https://github.com/amingolnari/OpenCL-Video-Processing)**: Using OpenCL and OpenCV in Visual Studio C/C++. Addressed challenges of processing high-resolution files (Full-HD or 4K) using GPUs for optimal performance.
-
-* **Applications of CNN on CIFAR-10 and MNIST Datasets**: Implemented linear and non-linear regression using Keras and TensorFlow in Python. Explored CNN layers, activation functions, kernel size changes, and pooling.
-
-* **Multi-Thread Operation of a High-Resolution Convolutional Layer**: Testing performance on GPU vs. CPU using OpenCL and OpenCV in Visual Studio C/C++.
-
-* **Speech Preprocessing and Emotion RNN-based Classification**: Compared MelSpectrogram (ConvLSTM) and raw data (LSTM) in Python, addressing speech processing challenges with high correlation datasets.
-
-* **[Image-Processing Android App Development](https://github.com/amingolnari/Android-OpenCV)**: Created an Android app using OpenCV in Android Studio (Java) for tasks like Canny edge detection and face detection.
-
-* **Neuroimage Analysis**: Analyzed human brain fMRI and resting-state fMRI data using MATLAB/Python (SPM12/FSL) to detect spatial attention regions in task-driven fMRI analysis.
-
-* **Closed-Loop System Stability Analysis**: Implemented state-space model analysis using MATLAB & Simulink for linear and nonlinear control systems.
-
