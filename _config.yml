@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_pic.png"
   name             : "Master of Electrical Engineering"
-  pronouns         : # example: "He/Him/His"  
+  pronouns         : "He/Him/His" # example: "He/Him/His"  
   bio              : "An enthusiastic and versatile engineer with an extensive electrical engineering and data science background"
   location         : "Earth"
   employer         : "Shahrood UofT"
@@ -100,7 +100,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
