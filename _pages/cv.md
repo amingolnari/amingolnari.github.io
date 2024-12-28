@@ -23,6 +23,16 @@ redirect_from:
 * **Associate of Electrotechnics**, Industrial Electricity
 * **High School Diploma**, Industrial Electricity
 
+# Skills
+
+- **Programming Languages**: Python, MATLAB, C/C++, TensorFlow, Keras, OpenCV, OpenCL
+- **Software & Tools**: Jupyter Notebook, LaTeX, Microsoft Visio, Word, PowerPoint
+- **Technical Expertise**: 
+  - Deep Learning, Machine Learning, and Computer Vision
+  - Medical Imaging Analysis and Segmentation
+  - Signal Processing and Neuroimaging
+  - Generative Models and One-shot Learning
+  - Control Systems Engineering (Siemens PLCs, LOGO programming)
 
 # Experiences
 
