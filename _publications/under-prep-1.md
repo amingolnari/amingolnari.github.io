@@ -2,7 +2,7 @@
 title: "Efficient Multi-Scale Brain Tumor Segmentation: Integrating Adaptive Distributed Attention and Weighted Inception Module"
 collection: publications
 category: underprep
-permalink: /publication/2023-10-10-under-prep-1
+permalink: /publication/under-prep-1
 excerpt: 'In this research, we propose a novel approach to enhancing the U-Net architecture for brain tumor segmentation using BRATS dataset. By integrating Weighted Inception Module and Adaptive Distributed Attention Mechanism, our proposed Dynamic U-Net achieves superior segmentation accuracy and computational efficiency compared to traditional U-Net variants.'
 date: 2025-08-08
 venue: 'Under Preparation'
