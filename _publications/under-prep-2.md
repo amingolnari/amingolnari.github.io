@@ -1,5 +1,5 @@
 ---
-title: "Quantum-Inspired Variational Convolutional Network with Rotated Ensembles for Uncertainty-Aware Phonocardiogram Classification"
+title: "QiVC-Net: Quantum-Inspired Variational Convolutional Network with Rotated Ensembles for Murmur Classification"
 collection: publications
 category: underprep
 permalink: /publication/under-prep-2
