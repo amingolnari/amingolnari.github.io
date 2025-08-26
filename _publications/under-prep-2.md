@@ -15,5 +15,6 @@ Phonocardiogram (PCG) classification is a critical step in computer-aided auscul
 
 
 
-<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/2d036b95-944d-4b75-8b58-6773b6a3e431" />
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/7ff883ea-2d65-4632-b57b-729bdd31a2d7" />
+
 
