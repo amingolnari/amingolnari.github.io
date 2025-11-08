@@ -31,12 +31,14 @@ Biometric recognition is a popular topic in machine vision. Deep Neural Networks
 
 ## Cite This Research:
 
-    @article{GOLNARI2020DEEPFACEAR,
-       title={DeepFaceAR: Deep Face Recognition and Displaying Personal Information via Augmented Reality},
-       author={Golnari, Amin and Khosravi, Hossein and Sanei, Saeid},
-       publisher={2020 International Conference on Machine Vision and Image Processing (MVIP)},
-       pages={1--7},
-       year={2020},
-       organization={IEEE},
-       doi={https://doi.org/10.1109/MVIP49855.2020.9116873}
-    }
+```bibtex
+@article{GOLNARI2020DEEPFACEAR,
+   title={DeepFaceAR: Deep Face Recognition and Displaying Personal Information via Augmented Reality},
+   author={Golnari, Amin and Khosravi, Hossein and Sanei, Saeid},
+   publisher={2020 International Conference on Machine Vision and Image Processing (MVIP)},
+   pages={1--7},
+   year={2020},
+   organization={IEEE},
+   doi={https://doi.org/10.1109/MVIP49855.2020.9116873}
+}
+```
