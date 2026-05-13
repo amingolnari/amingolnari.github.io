@@ -26,7 +26,7 @@ This study proposes an interpretable and scalable framework for decoding driving
 
 
 ```bibtex
-@article{golnari2026driverbehavior,
+@article{askari2026driverbehavior,
   title={Physiologically Grounded Driver Behavior Classification: SHAP-Driven Elite Feature Selection and Hybrid Gradient Boosting for Multimodal Physiological Signals},
   author={Akbari, Sahar and Mirza Ali Mohammadi, Mohammad Mahdi and Ensafdoust, Fatemeh and Golnari, Amin and Sanei, Saeid},
   journal={arXiv preprint arXiv:2605.05120},
