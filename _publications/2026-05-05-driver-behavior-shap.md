@@ -32,3 +32,4 @@ This study proposes an interpretable and scalable framework for decoding driving
   journal={arXiv preprint arXiv:2605.05120},
   year={2026}
 }
+```
