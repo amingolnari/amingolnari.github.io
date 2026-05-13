@@ -6,7 +6,7 @@ permalink: /publication/2026-05-05-driver-behavior-shap
 excerpt: 'This study introduces an interpretable ensemble framework using SHAP-based "Elite" feature selection and hybrid gradient boosting (XGBoost + LightGBM) to classify driving behaviors from multimodal physiological signals (EEG, EMG, GSR).'
 date: 2026-05-05
 venue: 'arXiv Preprint'
-paperurl: 'https://arxiv.org/abs/2605.XXXXX'
+paperurl: 'https://arxiv.org/abs/2605.05120'
 ---
 
 ## Abstract
@@ -29,6 +29,6 @@ This study proposes an interpretable and scalable framework for decoding driving
 @article{golnari2026driverbehavior,
   title={Physiologically Grounded Driver Behavior Classification: SHAP-Driven Elite Feature Selection and Hybrid Gradient Boosting for Multimodal Physiological Signals},
   author={Akbari, Sahar and Mirza Ali Mohammadi, Mohammad Mahdi and Ensafdoust, Fatemeh and Golnari, Amin and Sanei, Saeid},
-  journal={arXiv preprint arXiv:2605.XXXXX},
+  journal={arXiv preprint arXiv:2605.05120},
   year={2026}
 }
