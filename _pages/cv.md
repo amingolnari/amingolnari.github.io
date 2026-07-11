@@ -15,7 +15,7 @@ redirect_from:
   **University**: VinUniversity | **Location**: Hanoi, Vietnam  
   **Start**: 2026, June – **To**: Present  
   **Research Area:** Deep Learning, Computational Neuroscience, Medical Image Processing
-* **Master of Electrical Engineering**, Telecommunications Systems  
+* **M.Sc. in Electrical Engineering**, Telecommunications Systems  
   **University**: Shahrood University of Technology | **Location**: Shahrood, Iran  
   **Start**: 2016, September – **To**: 2019, January  
   **Title of M.Sc. Dissertation**:  
