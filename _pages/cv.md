@@ -11,13 +11,17 @@ redirect_from:
 
 # Education
 
+* **Ph.D. in Computer Science**  
+  **University**: VinUniversity | **Location**: Hanoi, Vietnam  
+  **Start**: 2026, June – **To**: Present  
+  **Research Area:** Deep Learning, Computational Neuroscience, Medical Image Processing
 * **Master of Electrical Engineering**, Telecommunications Systems  
-  **University**: Shahrood University of Technology | **City**: Shahrood  
-  **Start**: 2016, September – **End**: 2019, January  
+  **University**: Shahrood University of Technology | **Location**: Shahrood, Iran  
+  **Start**: 2016, September – **To**: 2019, January  
   **Title of M.Sc. Dissertation**:  
   [Designing and Implementing a Teachers Information Display System Using Face Detection and Augmented Reality](https://shahroodut.ac.ir/en/thesis/thesis.php?thid=TK690)
 
-* **Bachelor of Control Technology Engineering**, Instrumentation    
+* **B.Sc. in Control Technology Engineering**, Instrumentation    
   **Title of B.Sc. Final Project**:    
   Designing and Simulating a DC Motor Speed Controller Using a PID Controller in MATLAB
 * **Associate of Electrotechnics**, Industrial Electricity
