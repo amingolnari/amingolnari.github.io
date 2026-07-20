@@ -24,7 +24,7 @@ redirect_from:
 * **B.Sc. in Control Technology Engineering**, Instrumentation    
   **Title of B.Sc. Final Project**:    
   Designing and Simulating a DC Motor Speed Controller Using a PID Controller in MATLAB
-* **Associate of Electrotechnics**, Industrial Electricity
+* **Associate Degree in Electrotechnics**, Industrial Electricity
 * **High School Diploma**, Industrial Electricity
 
 # Skills
